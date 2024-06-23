@@ -1,3 +1,7 @@
+body {
+  user-select: none;
+}
+
 ul.gallery {
   list-style: none;
   display: flex;
